@@ -1,0 +1,21 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.cart{
+    margin: 20px 0px;
+    background: green;
+    width: 200px;
+    text-align: center;
+
+}
+.gallery{
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    
+}
+
+.extra{
+    margin: 10px 10px;
+}
